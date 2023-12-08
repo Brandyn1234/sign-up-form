@@ -1,3 +1,7 @@
+body {
+    overflow: hidden;
+}
+
 .form-data {
     display: flex;
     flex-direction: row;
@@ -16,5 +20,9 @@ label {
 .form-text {
     width: 665px;
     height: 100px;
+}
+
+.container {
+    display: flex; 
 }
 
