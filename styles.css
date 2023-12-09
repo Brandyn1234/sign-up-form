@@ -41,9 +41,7 @@ label {
 
 .form-container {
     background-color: #fefefe;
-    padding-top: 275px;
-    padding-right: 430px;
-    padding-left: 200px;
+    padding: 275px 430px 0px 200px
 }
 
 .form-container2 {
