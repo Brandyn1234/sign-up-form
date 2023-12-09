@@ -23,8 +23,7 @@ label {
 }
 
 .form-text {
-    width: 665px;
-    height: 100px;
+    width: 830px;
 }
 
 .container {
@@ -32,7 +31,15 @@ label {
 }
 
 .form-container {
-    margin-top: 300px;
-    margin-left: 100px;
+    background-color: #fefefe;
+    padding-top: 350px;
+    padding-right: 430px;
+    padding-left: 200px;
+}
+
+.form-bg-color {
+    margin-top: 20px;
+    background-color: white;
+    width: 1190px;
 }
 
