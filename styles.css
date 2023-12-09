@@ -10,6 +10,15 @@ body {
 .form-data {
     display: flex;
     flex-direction: row;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+input {
+    width: 200px;
+    height: 20px;
 }
 
 label, input {
@@ -37,9 +46,10 @@ label {
     padding-left: 200px;
 }
 
-.form-bg-color {
+.form-container2 {
     margin-top: 20px;
-    background-color: white;
-    width: 1190px;
 }
 
+.form-container3 {
+    margin-top: 50px;
+}
