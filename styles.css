@@ -19,6 +19,7 @@ body {
 input {
     width: 225px;
     height: 25px;
+    border: 1px solid black;
 }
 
 label, input {
